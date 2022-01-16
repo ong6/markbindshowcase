@@ -96,6 +96,32 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/topic1.md",
+      "title": "",
+      "headings": {
+        "topic-1": "Topic 1"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic2.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3a.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3b.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
       "src": "design.md",
       "title": "",
       "headings": {
@@ -188,7 +214,7 @@
     },
     {
       "src": "index.md",
-      "title": "Hello World",
+      "title": "Landing Page",
       "headings": {
         "documentation-for-developers": "Documentation For Developers",
         "main-documents": "Main documents",
