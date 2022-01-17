@@ -1,0 +1,300 @@
+2022-01-17T04:19:06.868Z - info: Initialization success.
+2022-01-17T04:19:06.870Z - info: Converting to MarkBind website.
+2022-01-17T04:19:06.928Z - info: The default base URL of your site is set to /
+You can change the base URL of your site by editing site.json
+Check https://markbind.org/userGuide/siteConfiguration.html for more information.
+2022-01-17T04:19:06.929Z - info: Conversion success.
+2022-01-17T04:19:23.899Z - info: Website generation started at 12:19:23 pm
+2022-01-17T04:19:24.105Z - info: Building assets...
+2022-01-17T04:19:24.275Z - info: Assets built
+2022-01-17T04:19:24.278Z - info: Generating pages...
+2022-01-17T04:19:24.454Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/CODE_OF_CONDUCT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:24.461Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/LICENSE' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:24.484Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/SUPPORT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:24.485Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/docs/README.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:24.600Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ccoding.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.601Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cdata-migration.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.602Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ctesting.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.603Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cui-design.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.605Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic1.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.606Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic2.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.607Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3a.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.610Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3b.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:24.860Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/(../static-analysis/teammates-checkstyle.xml)' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:24.861Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmd.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:24.862Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmdMain.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:24.863Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-spotbugs.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:24.865Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-tslint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:24.867Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-stylelint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:25.086Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/solr.sh' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\search.md'
+2022-01-17T04:19:25.649Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/src/main/java/teammates/common/util/Const.java' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\design.md'
+2022-01-17T04:19:25.886Z - info: Pages built
+2022-01-17T04:19:26.109Z - info: Site data built
+2022-01-17T04:19:26.110Z - info: Website generation complete! Total build time: 2.237s
+2022-01-17T04:19:26.151Z - info: Serving "C:\Users\junxi\Documents\Development\Markbind\showcase\_site" at http://127.0.0.1:8080
+2022-01-17T04:19:26.151Z - info: Press CTRL+C to stop ...
+2022-01-17T04:19:46.681Z - info: [12:19:46 pm] Reload for file change: C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md
+2022-01-17T04:19:47.758Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ccoding.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.763Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cdata-migration.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.764Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ctesting.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.765Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cui-design.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.767Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic1.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.768Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic2.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.769Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3a.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.770Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3b.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:19:47.775Z - info: Rebuilding 27 pages
+2022-01-17T04:19:47.794Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/CODE_OF_CONDUCT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:47.798Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/LICENSE' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:47.807Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/SUPPORT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:47.808Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/docs/README.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:19:48.018Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/(../static-analysis/teammates-checkstyle.xml)' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:48.020Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmd.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:48.026Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmdMain.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:48.029Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-spotbugs.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:48.032Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-tslint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:48.035Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-stylelint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:19:48.218Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/solr.sh' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\search.md'
+2022-01-17T04:19:48.706Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/src/main/java/teammates/common/util/Const.java' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\design.md'
+2022-01-17T04:19:49.077Z - info: Site data built
+2022-01-17T04:19:49.079Z - info: Pages rebuilt
+2022-01-17T04:19:49.080Z - info: Website regeneration complete! Total build time: 1.306s
+2022-01-17T04:20:21.985Z - info: [12:20:21 pm] Reload for file change: C:\Users\junxi\Documents\Development\Markbind\showcase\site.json
+2022-01-17T04:20:22.040Z - info: No pages needed to be rebuilt
+2022-01-17T04:20:26.219Z - info: [12:20:26 pm] Reload for file change: C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md
+2022-01-17T04:20:27.255Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ccoding.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.256Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cdata-migration.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.258Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ctesting.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.259Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cui-design.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.260Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic1.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.261Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic2.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.262Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3a.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.263Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3b.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:27.271Z - info: Rebuilding 27 pages
+2022-01-17T04:20:27.306Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/CODE_OF_CONDUCT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:27.312Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/LICENSE' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:27.319Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/SUPPORT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:27.320Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/docs/README.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:27.445Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/(../static-analysis/teammates-checkstyle.xml)' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:27.446Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmd.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:27.448Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmdMain.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:27.449Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-spotbugs.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:27.450Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-tslint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:27.451Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-stylelint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:27.581Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/solr.sh' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\search.md'
+2022-01-17T04:20:28.028Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/src/main/java/teammates/common/util/Const.java' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\design.md'
+2022-01-17T04:20:28.340Z - info: Site data built
+2022-01-17T04:20:28.340Z - info: Pages rebuilt
+2022-01-17T04:20:28.341Z - info: Website regeneration complete! Total build time: 1.07s
+2022-01-17T04:20:32.135Z - info: [12:20:32 pm] Reload for file change: C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md
+2022-01-17T04:20:33.153Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ccoding.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.154Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cdata-migration.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.158Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Ctesting.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.159Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/best-practices%5Cui-design.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.160Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic1.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.161Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic2.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.162Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3a.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.163Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/contents%5Ctopic3b.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:33.167Z - info: Rebuilding 27 pages
+2022-01-17T04:20:33.181Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/CODE_OF_CONDUCT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:33.185Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/LICENSE' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:33.191Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/SUPPORT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:33.192Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/docs/README.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:33.337Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/(../static-analysis/teammates-checkstyle.xml)' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:33.338Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmd.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:33.341Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmdMain.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:33.342Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-spotbugs.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:33.344Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-tslint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:33.346Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-stylelint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:33.475Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/solr.sh' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\search.md'
+2022-01-17T04:20:33.818Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/src/main/java/teammates/common/util/Const.java' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\design.md'
+2022-01-17T04:20:34.088Z - info: Site data built
+2022-01-17T04:20:34.089Z - info: Pages rebuilt
+2022-01-17T04:20:34.089Z - info: Website regeneration complete! Total build time: 0.923s
+2022-01-17T04:20:43.114Z - info: Website generation started at 12:20:42 pm
+2022-01-17T04:20:43.353Z - info: Building assets...
+2022-01-17T04:20:43.526Z - info: Assets built
+2022-01-17T04:20:43.527Z - info: Generating pages...
+2022-01-17T04:20:43.682Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/CODE_OF_CONDUCT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:43.687Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/LICENSE' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:43.701Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/SUPPORT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:43.704Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/docs/README.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:20:43.811Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Ccoding.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.812Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Cdata-migration.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.815Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Ctesting.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.817Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Cui-design.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.820Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic1.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.821Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic2.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.822Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic3a.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:43.823Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic3b.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:20:44.082Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/(../static-analysis/teammates-checkstyle.xml)' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:44.084Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmd.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:44.085Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmdMain.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:44.087Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-spotbugs.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:44.088Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-tslint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:44.089Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-stylelint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:20:44.281Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/solr.sh' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\search.md'
+2022-01-17T04:20:44.896Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/src/main/java/teammates/common/util/Const.java' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\design.md'
+2022-01-17T04:20:45.155Z - info: Pages built
+2022-01-17T04:20:45.384Z - info: Site data built
+2022-01-17T04:20:45.384Z - info: Website generation complete! Total build time: 2.408s
+2022-01-17T04:20:45.385Z - info: Build success!
+2022-01-17T04:20:54.744Z - info: The website has been deployed at: https://ong6.github.io/markbindshowcase
+2022-01-17T04:21:13.759Z - info: Website generation started at 12:21:13 pm
+2022-01-17T04:21:14.020Z - info: Building assets...
+2022-01-17T04:21:14.238Z - info: Assets built
+2022-01-17T04:21:14.240Z - info: Generating pages...
+2022-01-17T04:21:14.413Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/CODE_OF_CONDUCT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:21:14.420Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/LICENSE' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:21:14.435Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/.github/SUPPORT.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:21:14.439Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/docs/README.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\CONTRIBUTING.md'
+2022-01-17T04:21:14.576Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Ccoding.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.578Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Cdata-migration.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.581Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Ctesting.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.583Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/best-practices%5Cui-design.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.587Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic1.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.588Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic2.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.589Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic3a.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.590Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/contents%5Ctopic3b.html' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\_markbind\layouts\default.md'
+2022-01-17T04:21:14.837Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/markbindshowcase/(../static-analysis/teammates-checkstyle.xml)' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:21:14.838Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmd.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:21:14.839Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-pmdMain.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:21:14.841Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-spotbugs.xml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:21:14.841Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-tslint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:21:14.842Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/static-analysis/teammates-stylelint.yml' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\static-analysis.md'
+2022-01-17T04:21:15.037Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/solr.sh' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\search.md'
+2022-01-17T04:21:15.629Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/src/main/java/teammates/common/util/Const.java' found in file 'C:\Users\junxi\Documents\Development\Markbind\showcase\design.md'
+2022-01-17T04:21:15.851Z - info: Pages built
+2022-01-17T04:21:16.054Z - info: Site data built
+2022-01-17T04:21:16.055Z - info: Website generation complete! Total build time: 2.454s
+2022-01-17T04:21:16.089Z - info: Serving "C:\Users\junxi\Documents\Development\Markbind\showcase\_site" at http://127.0.0.1:8080
+2022-01-17T04:21:16.089Z - info: Press CTRL+C to stop ...
+2022-01-17T04:21:34.488Z - info: [12:21:34 pm] Reload for file change: C:\Users\junxi\Documents\Development\Markbind\showcase\development.md
+2022-01-17T04:21:35.496Z - info: Rebuilding 1 pages
+2022-01-17T04:21:35.686Z - info: Site data built
+2022-01-17T04:21:35.689Z - info: Pages rebuilt
+2022-01-17T04:21:35.690Z - info: Website regeneration complete! Total build time: 0.196s
+2022-01-17T04:21:53.905Z - info: [12:21:53 pm] Reload for file change: C:\Users\junxi\Documents\Development\Markbind\showcase\development.md
+2022-01-17T04:21:54.916Z - info: Rebuilding 1 pages
+2022-01-17T04:21:55.161Z - info: Site data built
+2022-01-17T04:21:55.161Z - info: Pages rebuilt
+2022-01-17T04:21:55.162Z - info: Website regeneration complete! Total build time: 0.247s
